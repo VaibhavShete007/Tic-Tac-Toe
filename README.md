@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Vaibhav Shete
+#Vaibhav Shete.    
 Anaconda(Data science Platform)
 Python 3.6
 Usage:
